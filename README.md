@@ -35,9 +35,11 @@ NebulaTune is a HF reciever utilizng a Direct Conversion Single Balanced Diode P
 
 3. A housing is wished for but not needed especially if you plan on tweaking my design;
 
-4. Print the PCB(Only the F.Cu and that is in reverse) or order it from JLCPCB(not sponsored);
+4. Print the PCB(Only the `F.Cu` and that is in reverse) or order it from JLCPCB(not sponsored);
 
-5. More to come later...
+5. Install the MicroPico extension if using VS Code or just use Thonny;
+
+6. More to come later...
 
 # How it works
  
