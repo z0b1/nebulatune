@@ -79,19 +79,20 @@ Big shoutout to my father, without him, having patience and will to work is gett
 |Reference|Part|Qty|Price|Total|Description|
 |:---|:---:|:---|:---:|:---:|:---:|
 |AE1|Antenna|1|3.66E|3.66E|BNC CONNECTOR|
-|C1|Capacitor|1|X|X|60|
-|C2,C7,C8|Capacitor|3|X|X|10n|
-|C3|Capacitor|1|X|X|470n|
-|C4|CP|1|X|X|22u/10V|
+|C1|Capacitor|1|0.3E|0.3E|60|
+|C2,C7,C8|Capacitor|3|0.1E|0.3E|10n|
+|C3|Capacitor|1|0.15|0.15|470n|
+|C4|CP|1|0.2|0.2|22u/10V|
 |C5|CP|1|X|X|100u/16V|
 |C6|Capacitor|1|X|X|100n|
 |D1,D2|Diode|2|X|X|1N4148|
-|J1|VFO|1|X|X|Si5351|
-|J2|Display|1|X|X|OLED 128x64 I2C|
-|L1|Inductor/Choke Coupled|1|X|X|L1 22uH L2 100uH|
-|LS1|Speaker|1|X|X|8Ohm|
-|R1|Resistor|1|X|X|1|
-|RV1|Trimmer|1|X|X|1k|
-|SW1|Rotary encoder swithc|1|X|X|/|
-|U1|TDA2003|1|X|X|Audio amp|
-|U2|XIAO RP2350 DIP|1|X|X|Main MCU|
+|J1|VFO|1|6.5|6.5|Si5351|
+|J2|Display|1|6.8|6.8|OLED 128x64 I2C|
+|L1|Inductor/Choke Coupled|1|0.2|0.2|L1 22uH L2 100uH|
+|LS1|Speaker|1|2.8|2.8|8Ohm|
+|R1|Resistor|1|x|x|1|
+|RV1|Trimmer|1|0.2|0.2|1k|
+|SW1|Rotary encoder swithch|1|1|1|/|
+|U1|TDA2003|1|1.5|1.5|Audio amp|
+|U2|XIAO RP2350 DIP|1|9|9|Main MCU|
+> Total 32.61 Euros or 37.33 USD, price might vary for shipping and availabilty reasons.
